@@ -1,0 +1,61 @@
+Order ID,Order Date,Product Name,Category,Quantity,Unit Price,Sales Amount,Region
+ORD-1001,2025-01-05,Study Desk,Furniture,2,8999.0,17998.0,North
+ORD-1002,2025-01-14,Study Desk,Furniture,3,8999.0,26997.0,North
+ORD-1003,2025-01-18,Wireless Headphones,Electronics,4,2499.0,9996.0,Central
+ORD-1004,2025-01-24,Gel Pen Set,Stationery,27,149.0,4023.0,Central
+ORD-1005,2025-01-25,Cotton T-Shirt,Clothing,11,699.0,7689.0,East
+ORD-1006,2025-02-11,Notebook Pack,Stationery,8,249.0,1992.0,East
+ORD-1007,2025-02-16,Smartphone,Electronics,4,18999.0,75996.0,Central
+ORD-1008,2025-02-20,Electric Kettle,Home Appliances,1,999.0,999.0,North
+ORD-1009,2025-02-23,Wireless Headphones,Electronics,2,2499.0,4998.0,North
+ORD-1010,2025-02-25,Notebook Pack,Stationery,8,249.0,1992.0,South
+ORD-1011,2025-02-25,Gel Pen Set,Stationery,17,149.0,2533.0,South
+ORD-1012,2025-03-05,Bookshelf,Furniture,1,5499.0,5499.0,Central
+ORD-1013,2025-03-09,Mixer Grinder,Home Appliances,3,3299.0,9897.0,North
+ORD-1014,2025-03-20,Electric Kettle,Home Appliances,8,999.0,7992.0,West
+ORD-1015,2025-03-20,Mixer Grinder,Home Appliances,5,3299.0,16495.0,East
+ORD-1016,2025-04-04,Smart Watch,Electronics,1,5999.0,5999.0,South
+ORD-1017,2025-04-09,Winter Jacket,Clothing,3,3499.0,10497.0,South
+ORD-1018,2025-04-13,Laptop,Electronics,3,55000.0,165000.0,West
+ORD-1019,2025-04-14,Electric Kettle,Home Appliances,2,999.0,1998.0,East
+ORD-1020,2025-04-20,Denim Jeans,Clothing,5,1799.0,8995.0,East
+ORD-1021,2025-04-21,Smart Watch,Electronics,2,5999.0,11998.0,West
+ORD-1022,2025-04-26,Electric Kettle,Home Appliances,8,999.0,7992.0,South
+ORD-1023,2025-05-02,Electric Kettle,Home Appliances,7,999.0,6993.0,South
+ORD-1024,2025-05-11,Gel Pen Set,Stationery,22,149.0,3278.0,East
+ORD-1025,2025-05-12,Smart Watch,Electronics,1,5999.0,5999.0,North
+ORD-1026,2025-05-16,Denim Jeans,Clothing,8,1799.0,14392.0,West
+ORD-1027,2025-05-22,Study Desk,Furniture,1,8999.0,8999.0,North
+ORD-1028,2025-06-03,Notebook Pack,Stationery,6,249.0,1494.0,East
+ORD-1029,2025-06-05,Cotton T-Shirt,Clothing,7,699.0,4893.0,West
+ORD-1030,2025-06-11,Winter Jacket,Clothing,5,3499.0,17495.0,Central
+ORD-1031,2025-06-25,Gel Pen Set,Stationery,34,149.0,5066.0,East
+ORD-1032,2025-07-04,School Backpack,Stationery,6,1799.0,10794.0,South
+ORD-1033,2025-07-17,Gel Pen Set,Stationery,26,149.0,3874.0,South
+ORD-1034,2025-09-01,Denim Jeans,Clothing,10,1799.0,17990.0,East
+ORD-1035,2025-09-05,Laptop,Electronics,1,55000.0,55000.0,South
+ORD-1036,2025-09-09,Bookshelf,Furniture,2,5499.0,10998.0,North
+ORD-1037,2025-09-11,Smart Watch,Electronics,1,5999.0,5999.0,West
+ORD-1038,2025-09-13,Gel Pen Set,Stationery,34,149.0,5066.0,North
+ORD-1039,2025-09-13,Notebook Pack,Stationery,9,249.0,2241.0,South
+ORD-1040,2025-09-18,Bookshelf,Furniture,2,5499.0,10998.0,East
+ORD-1041,2025-09-18,Mixer Grinder,Home Appliances,2,3299.0,6598.0,West
+ORD-1042,2025-09-22,Smartphone,Electronics,2,18999.0,37998.0,West
+ORD-1043,2025-10-06,Gel Pen Set,Stationery,35,149.0,5215.0,Central
+ORD-1044,2025-10-06,Cotton T-Shirt,Clothing,3,699.0,2097.0,East
+ORD-1045,2025-10-08,Wireless Headphones,Electronics,3,2499.0,7497.0,North
+ORD-1046,2025-10-19,Gel Pen Set,Stationery,40,149.0,5960.0,South
+ORD-1047,2025-10-21,Study Desk,Furniture,3,8999.0,26997.0,Central
+ORD-1048,2025-11-08,Winter Jacket,Clothing,3,3499.0,10497.0,Central
+ORD-1049,2025-11-09,Notebook Pack,Stationery,22,249.0,5478.0,East
+ORD-1050,2025-11-15,Denim Jeans,Clothing,10,1799.0,17990.0,Central
+ORD-1051,2025-11-21,Bookshelf,Furniture,2,5499.0,10998.0,South
+ORD-1052,2025-11-28,Bookshelf,Furniture,1,5499.0,5499.0,North
+ORD-1053,2025-12-04,Wireless Headphones,Electronics,6,2499.0,14994.0,West
+ORD-1054,2025-12-08,Laptop,Electronics,3,55000.0,165000.0,North
+ORD-1055,2025-12-09,Winter Jacket,Clothing,2,3499.0,6998.0,Central
+ORD-1056,2025-12-09,Electric Kettle,Home Appliances,3,999.0,2997.0,North
+ORD-1057,2025-12-10,Smart Watch,Electronics,3,5999.0,17997.0,North
+ORD-1058,2025-12-12,Gel Pen Set,Stationery,5,149.0,745.0,Central
+ORD-1059,2025-12-18,Bookshelf,Furniture,1,5499.0,5499.0,South
+ORD-1060,2025-12-27,Notebook Pack,Stationery,10,249.0,2490.0,East
